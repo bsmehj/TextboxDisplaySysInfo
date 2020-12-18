@@ -1,0 +1,2 @@
+# TextboxDisplaySysInfo
+winform桌面程序中，将程序的运行消息多行滚动显示到界面的文本文件中
