@@ -1,0 +1,10 @@
+C:\Users\hj\Desktop\UserDemo\TextDemo\TextDemo\bin\Debug\TextDemo.exe.config
+C:\Users\hj\Desktop\UserDemo\TextDemo\TextDemo\bin\Debug\TextDemo.exe
+C:\Users\hj\Desktop\UserDemo\TextDemo\TextDemo\bin\Debug\TextDemo.pdb
+C:\Users\hj\Desktop\UserDemo\TextDemo\TextDemo\obj\Debug\TextDemo.csprojAssemblyReference.cache
+C:\Users\hj\Desktop\UserDemo\TextDemo\TextDemo\obj\Debug\TextDemo.MainForm.resources
+C:\Users\hj\Desktop\UserDemo\TextDemo\TextDemo\obj\Debug\TextDemo.Properties.Resources.resources
+C:\Users\hj\Desktop\UserDemo\TextDemo\TextDemo\obj\Debug\TextDemo.csproj.GenerateResource.cache
+C:\Users\hj\Desktop\UserDemo\TextDemo\TextDemo\obj\Debug\TextDemo.csproj.CoreCompileInputs.cache
+C:\Users\hj\Desktop\UserDemo\TextDemo\TextDemo\obj\Debug\TextDemo.exe
+C:\Users\hj\Desktop\UserDemo\TextDemo\TextDemo\obj\Debug\TextDemo.pdb
